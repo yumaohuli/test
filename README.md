@@ -5,6 +5,8 @@ git 测试库
 $(document).click(function(){
     alert("信息")
 })
+
+let a = 123;
 ```
 
 ```html
