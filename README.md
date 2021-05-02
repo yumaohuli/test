@@ -7,6 +7,7 @@ $(document).click(function(){
 })
 
 let a = 123;
+let b = 156;
 ```
 
 ```html
